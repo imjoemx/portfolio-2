@@ -5,9 +5,9 @@
     "title": "Gatsby Starter for Portfolio Minimal",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Increasing ethical practices among agile and waterfall dev teams",
-    "author": "Konstantin Münster",
+    "author": "Joe Beharle",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "This biography JOE SANCHEZ BEHARLE will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/konstantinmuenster",
@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "❤ ETYCS" },
+    "logo": { "text": "I ❤ ETYCS" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
