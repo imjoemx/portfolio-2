@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "I♥ ETYCS" },
+    "logo": { "text": "❤ ETYCS" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
