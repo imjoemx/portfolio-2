@@ -1,7 +1,7 @@
 {
   "intro": "Welcome",
   "heroPhoto": {
-    "src": "../../images/waving-hand.png",
+    "src": "../../images/heart.png",
     "alt": "My Photo"
   },
   "image": {
